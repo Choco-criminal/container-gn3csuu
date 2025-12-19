@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Choco-criminal",
+  "repo": "container-gn3csuu",
+  "name": "Choco-criminal",
+  "email": "chocoXgithub@gmail.com",
+}
